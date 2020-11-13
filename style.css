@@ -20,6 +20,8 @@ img{
     width: 100;
     margin: 0 auto;
 }
+.search {}
+
 .footer_form input{
     border: none;
     padding: 15px 20px;
