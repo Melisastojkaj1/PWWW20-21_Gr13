@@ -9,13 +9,13 @@ body{
 }
 ul,
 ol{
-    list-style:none;
+    list-style: none;
 }
 
 img{
-    max-width:100;
+    max-width: 100;
 }
 
 .wrapper{
-    width: ;
+    width: 100;
 }
