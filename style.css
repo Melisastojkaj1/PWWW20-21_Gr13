@@ -134,7 +134,7 @@ float:right;
 
 .service h4::after{
   position: absolute;
-  content: ;
+  content: '';
   height: 5px;
   width: 73px;
   top: 25px;
