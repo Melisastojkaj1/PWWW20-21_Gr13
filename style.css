@@ -143,15 +143,16 @@ float:right;
   background: #29292f;
 }
 
-#service{
+#service {
   padding: 65px 40px;
 }
 
 #service li{
   display: inline-block;
-  padding-left: 20%;
+  padding-left: 10%;
   background-repeat: no-repeat;
   width: 25%;
+  background: url(http://placehold.it/100x100);
  
 }
 
