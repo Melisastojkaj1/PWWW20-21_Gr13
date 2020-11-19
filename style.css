@@ -183,7 +183,7 @@ float:right;
 }
 
 .facilis_border{
-
+  position: absolute;
 }
 
 .footer_form input{
