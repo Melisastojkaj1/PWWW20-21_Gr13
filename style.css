@@ -156,7 +156,7 @@ float:right;
  
 }
 
-.service_s h4::after{
+.service_s h4::after {
   position: absolute;
   content: '';
   height: 5px;
