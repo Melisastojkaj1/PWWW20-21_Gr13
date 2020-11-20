@@ -67,6 +67,7 @@ img{
 .contact h2{
     flex-basis: 70%;
     font-size: 32px;
+    padding: 0;
   
   
 }
