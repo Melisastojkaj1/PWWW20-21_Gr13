@@ -203,6 +203,7 @@ float:right;
   width: 25%;
   top: -65px;
   left: 300px;
+  z-index:;
 }
 
 .footer_form input{
