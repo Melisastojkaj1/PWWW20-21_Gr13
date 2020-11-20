@@ -198,6 +198,7 @@ float:right;
 }
 
 .facilis_title h2 {
+  position: absolute;
   background: #fff;
 
 
