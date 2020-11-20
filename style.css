@@ -53,9 +53,6 @@ img{
     text-align: right;
 }
 
-.right_menu ul{
-    font-size: 0;
-}
 
 .contact{
     background: #e7e7e7;
@@ -191,6 +188,7 @@ float:right;
   position: absolute;
   background-color: #000;
   height: 3px;
+  left: 0;
   
   
 }
