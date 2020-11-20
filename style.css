@@ -68,14 +68,10 @@ img{
     flex-basis: 70%;
     font-size: 32px;
     padding: 0;
-  
-  
-}
-
-
+ }
 
 .contact a{
-   display:;
+   display: block;
    background: #1f232c;
    justify-content: center;
    text-decoration: none;
