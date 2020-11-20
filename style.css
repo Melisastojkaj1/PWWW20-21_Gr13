@@ -214,8 +214,14 @@ float:right;
   padding-bottom: 15px;
 }
 
-.single_facilis{
+.single_facilis {
+  background-color: #eeeeee;
+  margin: 5px;
+}
 
+#facilis li{
+  display: inline-block;
+  width:32%;
 }
 .footer_form input{
     border: none;
