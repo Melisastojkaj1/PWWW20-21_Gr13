@@ -247,6 +247,9 @@ footer{
 .footer_text{
     color: #737373;
 }
+.footer_read {
+  text-align: right;
+}
 
 .footer_text p span{
     float: right;
