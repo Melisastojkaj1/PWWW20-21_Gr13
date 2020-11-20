@@ -250,6 +250,9 @@ footer{
 .footer_read {
   text-align: right;
 }
+.footer_read a{
+  text_decoration: none;
+}
 
 .footer_text p span{
     float: right;
