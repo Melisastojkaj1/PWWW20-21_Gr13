@@ -218,12 +218,15 @@ float:right;
   background-color: #eeeeee;
   margin: 5px;
 }
+
 .f_ContactUs {
   display: flex;
   flex-direction: column;
 }
 
-
+.f_ContactUs h4{
+  color: #2c2c2c;
+}
 
 
 
