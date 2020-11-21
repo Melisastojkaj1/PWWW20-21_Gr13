@@ -287,7 +287,8 @@ float:right;
 footer_read a{
   text-decoration: none;
   font-size: 14px;
-
+  color: #000;
+  text-align: right;
 }
 
 .footer_form input[type="submit"]{
