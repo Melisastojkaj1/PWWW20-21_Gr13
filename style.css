@@ -259,6 +259,7 @@ float:right;
 #footer_ContactUs ul li {
   display: inline-block;
   width: 20%;
+  margin: 5px;
 }
 
 
