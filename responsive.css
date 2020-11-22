@@ -4,6 +4,9 @@
      width: 300px;
   }
   
-  
+  .l_logo {
+      width: 100%;
+      text-align: center;
+  }
   
 }
