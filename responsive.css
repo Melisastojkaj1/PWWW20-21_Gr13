@@ -9,5 +9,7 @@
       text-align: center;
       float: none;
   }
-  
+  .search {
+      width: 100% !important;
+  }
 }
