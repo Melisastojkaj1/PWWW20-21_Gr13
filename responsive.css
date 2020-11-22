@@ -13,4 +13,11 @@
       width: 100% !important;
       margin: 20px 0;
   }
+  
+  .right_menu {
+      width: 100%;
+      float: none;
+      text-align: center;
+  }
+  
 }
