@@ -289,14 +289,14 @@ footer_read a{
 
    background-color: #1f232c;
    border-radius: 5px;
-   color: ;
+   color: #f5f4f2;
    font-weight: bold;
 }
 
 
 footer{
     background-color: #1f232c;
-    padding: 40px 35px;
+    padding: 30px 25px;
 }
 .footer_text{
     color: #737373;
