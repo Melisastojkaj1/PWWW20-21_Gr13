@@ -97,10 +97,11 @@ img{
     top: 35px;
     transform: translateY(-50%);
     right: 220px;
-    color: #fff;
+    color: #c5c6c7;
     font-size: 25px;
     cursor: pointer;
     border: none;
+    background: #11131a;
   }
 .menu{
    float: left;
