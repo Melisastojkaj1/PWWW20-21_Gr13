@@ -26,13 +26,7 @@ img{
     overflow: hidden;
     padding: 20px 10px;
 }
-#header{
-    padding-right: 20px;
-    padding-left: 20px;
-    padding-bottom: 20px;
-    padding-top: 20px;
 
-}
 
 .l_logo{
     width: 40%;
@@ -44,7 +38,7 @@ img{
     font-family: 'Dancing Script', cursive;
     float: left;
     font-size: 24px;
-    margin-top: 10px;
+    
 }
 
 .right_menu{
@@ -81,13 +75,12 @@ img{
 }
 
 .search {
-float:right;
+
 }
 
 .search input[type="text"]{
     background: #1f232c;
     color: #fff;
-    padding: 15px 25px;
     border-radius: 20px;
     position: relative;
     box-sizing: border-box;
@@ -101,12 +94,13 @@ float:right;
 
 .search button{
     position: absolute;
-    top:6.7%;
+    top: 35px;
     transform: translateY(-50%);
-    right: 25px;
+    right: 220px;
     color: #fff;
     font-size: 25px;
     cursor: pointer;
+    border: none;
   }
 .menu{
    float: left;
