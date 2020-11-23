@@ -48,3 +48,7 @@
       font-size: 12px;
   }
 }
+
+
+/* width moblie layout*/
+@media only screen and ( min-width: 480px)  and (max-width: 770px) {}
