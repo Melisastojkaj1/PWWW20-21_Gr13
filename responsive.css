@@ -52,3 +52,11 @@
 
 /* width moblie layout*/
 @media only screen and ( min-width: 480px)  and (max-width: 770px) {}
+
+/* medium layout: 1300px    */
+@media only screen and (min-width:  990px) and( max-width: 1200px) {}
+
+/* table layout:770px*/
+@media only screen and (min-width: 770px) and (max-width:990px)  {}
+
+
