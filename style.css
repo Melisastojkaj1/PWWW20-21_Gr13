@@ -74,34 +74,36 @@ img{
    padding: 20px 10px;
 }
 
-.search {
-
+.search form {
+  position: relative;
+  float: right;
+  margin-right: 2%;
+}
+.search form input, .search form button{
+  border: 0;
 }
 
-.search input[type="text"]{
-    background: #1f232c;
-    color: #fff;
-    border-radius: 20px;
-    position: relative;
+.search form input[type="text"]{
+    background: #e3e3dc;
+    border-radius: 30px;
     box-sizing: border-box;
-    border: 2px solid #fff;
     font-size: 12px;
     outline: none;
-    width: 80%;
+    width: 180px;
     height: 6px;
+    padding: 4px 8px;
+    outline:0;
 
 }
 
-.search button{
+.search form button{
     position: absolute;
-    top: 35px;
-    transform: translateY(-50%);
-    right: 220px;
-    color: #c5c6c7;
-    font-size: 25px;
+    top: 7px;
+    right: 10px;
+    bottom:50px;
+    font-size: 15px;
     cursor: pointer;
-    border: none;
-    background: #11131a;
+    background:none;
   }
 .menu{
    float: left;
